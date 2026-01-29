@@ -1,0 +1,18 @@
+body {
+  padding-top: 70px;
+  font-family: Tahoma;
+}
+
+.hero {
+  background-color: #222;
+  color: white;
+  padding: 80px 0;
+}
+
+.hero h1 {
+  font-size: 38px;
+}
+
+.table td {
+  vertical-align: middle;
+}
